@@ -1,0 +1,18 @@
+.Item {
+    background-color: #5c544256;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.btn{
+    background-color: #b0a89a56;
+    border-color: #8196e856;
+    border-radius: 5px;
+}
+.contenedorLogin{
+    background-color: #8cb5a5d5;
+    width: 1600px;
+    height: 1000px;
+
+}
+

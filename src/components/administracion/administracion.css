@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    background-color: #1b3255;
+    margin-bottom: 100px;
+}
+
+.item1{
+    color: #606d9b;
+}
+
+.item2{
+    color: #d8d834d3;
+}
+
+.item3{
+    color: #edfaf0d3;
+}
+.item4{
+    color: #db2dd0d3;
+}
+
+
+.hola{
+    margin-bottom: 100px;
+}
+
+.hola1{
+    background-color: rgb(98, 119, 156);
+    color: white;
+    border-radius: 6px;
+}
